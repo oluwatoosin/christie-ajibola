@@ -1,0 +1,37 @@
+body{
+    background-color:cornsilk;
+    color:crimson;
+    font-family:'Overlock', cursive;
+    font-size:20px;
+}
+
+#monospace{
+    font-family: 'Courier New', Courier, monospace;
+    color:red;
+
+}
+
+.heading{
+    background-color:grey;
+    color:navy;
+}
+
+.table{
+    background-color: lightgrey;
+}
+
+table, th, td{
+    border:1px solid black;
+    border-collapse:collapse;
+    color:darkblue;
+    font-size:1.1em;
+
+}
+
+h1, h2, h3{
+    color:seagreen;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    text-decoration: underline;
+    
+}
